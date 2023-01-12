@@ -31,3 +31,8 @@
     background-size: cover;
 
 }
+
+body{
+    overflow-x : hidden;
+ }
+  

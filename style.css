@@ -1,0 +1,38 @@
+.jumbotron {
+    /* Choisis la hauteur ici */
+    height: 500px;
+  
+    /* Tu lui donnes une image de background */
+    background-image: url("images/surf.jpg");
+  
+    /* Centre l'image et la met bien sur tous les écrans */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  .centrer {
+    text-align: center;
+  }
+
+.fondsurf {
+    background-image: url("images/surfsable.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+
+}
+
+.fondsurf2{
+    background-image: url("images/van.jpeg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.divcenter{
+    max-width: 100%;
+    max-height: 100%;
+}
